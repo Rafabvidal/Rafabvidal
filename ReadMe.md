@@ -1,7 +1,7 @@
 ## 👋🏻 Hi, I'm Rafaela!
 . Computer Sciece student at CESAR School  
 . I'm currently learning Java, Object-Oriented Programming and Algorithms and Data Structures
-. LinkedIn: <a href="https://www.linkedin.com/in/rafaela-brasileiro-vidal-9925411b2/">
+. LinkedIn: https://www.linkedin.com/in/rafaela-brasileiro-vidal-9925411b2/
 
 
 <div align="center">
